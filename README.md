@@ -1,6 +1,6 @@
 # User
 
-Hello! I'm User.
+Hello! I'm Jordan-T, passionate front-end developer based in Lille (France).
 
 ## Recent Activity
 
