@@ -9,11 +9,11 @@ This is a list of my most recent activity on GitHub.
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Jordan-T/poc-nuxt3-movies](https://github.com/Jordan-T/poc-nuxt3-movies)
 2. ⬆️ Pushed 1 commit(s) to [Jordan-T/poc-nuxt3-movies](https://github.com/Jordan-T/poc-nuxt3-movies)
-3. ⬆️ Pushed 1 commit(s) to [Jordan-T/test-image-grid](https://github.com/Jordan-T/test-image-grid)
+3. ⬆️ Pushed 1 commit(s) to [Jordan-T/poc-nuxt3-movies](https://github.com/Jordan-T/poc-nuxt3-movies)
 4. ⬆️ Pushed 1 commit(s) to [Jordan-T/test-image-grid](https://github.com/Jordan-T/test-image-grid)
-5. 📔 Created new repository [Jordan-T/test-image-grid](https://github.com/Jordan-T/test-image-grid)
+5. ⬆️ Pushed 1 commit(s) to [Jordan-T/test-image-grid](https://github.com/Jordan-T/test-image-grid)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 12th, 2022, 12:15:59 PM (GMT)
+Last Updated: Saturday, August 13th, 2022, 12:42:10 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
