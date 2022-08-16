@@ -10,10 +10,10 @@ This is a list of my most recent activity on GitHub.
 1. ⬆️ Pushed 1 commit(s) to [Jordan-T/poc-nuxt3-movies](https://github.com/Jordan-T/poc-nuxt3-movies)
 2. ⬆️ Pushed 1 commit(s) to [Jordan-T/poc-nuxt3-movies](https://github.com/Jordan-T/poc-nuxt3-movies)
 3. ⬆️ Pushed 1 commit(s) to [Jordan-T/poc-nuxt3-movies](https://github.com/Jordan-T/poc-nuxt3-movies)
-4. ⬆️ Pushed 1 commit(s) to [Jordan-T/test-image-grid](https://github.com/Jordan-T/test-image-grid)
-5. ⬆️ Pushed 1 commit(s) to [Jordan-T/test-image-grid](https://github.com/Jordan-T/test-image-grid)
+4. ⬆️ Pushed 1 commit(s) to [Jordan-T/poc-nuxt3-movies](https://github.com/Jordan-T/poc-nuxt3-movies)
+5. ⬆️ Pushed 1 commit(s) to [Jordan-T/poc-nuxt3-movies](https://github.com/Jordan-T/poc-nuxt3-movies)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 15th, 2022, 12:17:00 PM (GMT)
+Last Updated: Tuesday, August 16th, 2022, 12:54:24 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
