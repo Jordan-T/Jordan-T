@@ -7,13 +7,13 @@ Hello! I'm Jordan-T, passionate front-end developer based in Lille (France).
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Jordan-T/poc-nuxt3-movies](https://github.com/Jordan-T/poc-nuxt3-movies)
-2. ⬆️ Pushed 1 commit(s) to [Jordan-T/poc-nuxt3-movies](https://github.com/Jordan-T/poc-nuxt3-movies)
-3. ⬆️ Pushed 1 commit(s) to [Jordan-T/poc-nuxt3-movies](https://github.com/Jordan-T/poc-nuxt3-movies)
-4. ⬆️ Pushed 1 commit(s) to [Jordan-T/poc-nuxt3-movies](https://github.com/Jordan-T/poc-nuxt3-movies)
+1. ⬆️ Pushed 1 commit(s) to [Jordan-T/bloc-3](https://github.com/Jordan-T/bloc-3)
+2. ⬆️ Pushed 1 commit(s) to [Jordan-T/bloc-3](https://github.com/Jordan-T/bloc-3)
+3. 💪 Opened PR [#1](https://github.com/Leatitude/bloc-3/pull/1) in [Leatitude/bloc-3](https://github.com/Leatitude/bloc-3)
+4. 🔱 Forked [Jordan-T/bloc-3](https://github.com/Jordan-T/bloc-3) from [Leatitude/bloc-3](https://github.com/Leatitude/bloc-3)
 5. ⬆️ Pushed 1 commit(s) to [Jordan-T/poc-nuxt3-movies](https://github.com/Jordan-T/poc-nuxt3-movies)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 18th, 2022, 12:17:40 PM (GMT)
+Last Updated: Friday, August 19th, 2022, 12:50:53 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
