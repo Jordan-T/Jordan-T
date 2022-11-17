@@ -11,9 +11,8 @@ This is a list of my most recent activity on GitHub.
 2. ⬆️ Pushed 1 commit(s) to [Jordan-T/bloc-3](https://github.com/Jordan-T/bloc-3)
 3. 💪 Opened PR [#1](https://github.com/Leatitude/bloc-3/pull/1) in [Leatitude/bloc-3](https://github.com/Leatitude/bloc-3)
 4. 🔱 Forked [Jordan-T/bloc-3](https://github.com/Jordan-T/bloc-3) from [Leatitude/bloc-3](https://github.com/Leatitude/bloc-3)
-5. ⬆️ Pushed 1 commit(s) to [Jordan-T/poc-nuxt3-movies](https://github.com/Jordan-T/poc-nuxt3-movies)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 17th, 2022, 12:45:17 AM (GMT)
+Last Updated: Thursday, November 17th, 2022, 12:16:57 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
