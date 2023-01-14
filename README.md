@@ -10,10 +10,10 @@ This is a list of my most recent activity on GitHub.
 1. ⬆️ Pushed 1 commit(s) to [Jordan-T/poc-nuxt3-movies](https://github.com/Jordan-T/poc-nuxt3-movies)
 2. ⬆️ Pushed 1 commit(s) to [Jordan-T/poc-nuxt3-movies](https://github.com/Jordan-T/poc-nuxt3-movies)
 3. ⬆️ Pushed 1 commit(s) to [Jordan-T/poc-nuxt3-movies](https://github.com/Jordan-T/poc-nuxt3-movies)
-4. 💪 Opened PR [#87](https://github.com/kevinmarrec/nuxt-pwa-module/pull/87) in [kevinmarrec/nuxt-pwa-module](https://github.com/kevinmarrec/nuxt-pwa-module)
-5. 🔱 Forked [Jordan-T/nuxt-pwa-module](https://github.com/Jordan-T/nuxt-pwa-module) from [kevinmarrec/nuxt-pwa-module](https://github.com/kevinmarrec/nuxt-pwa-module)
+4. ⬆️ Pushed 1 commit(s) to [Jordan-T/poc-nuxt3-movies](https://github.com/Jordan-T/poc-nuxt3-movies)
+5. 💪 Opened PR [#87](https://github.com/kevinmarrec/nuxt-pwa-module/pull/87) in [kevinmarrec/nuxt-pwa-module](https://github.com/kevinmarrec/nuxt-pwa-module)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 13th, 2023, 12:14:13 PM (GMT)
+Last Updated: Saturday, January 14th, 2023, 12:38:34 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
