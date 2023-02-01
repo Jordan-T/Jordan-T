@@ -7,13 +7,13 @@ Hello! I'm Jordan-T, passionate front-end developer based in Lille (France).
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui)<br>
-2. ⬆️ Pushed 2 commit(s) to [Jordan-T/Jordan-T](https://github.com/Jordan-T/Jordan-T)<br>
-3. 🎉 Merged PR [#1](https://github.com/Jordan-T/Jordan-T/pull/1) in [Jordan-T/Jordan-T](https://github.com/Jordan-T/Jordan-T)<br>
-4. ⬆️ Pushed 1 commit(s) to [Jordan-T/poc-nuxt3-movies](https://github.com/Jordan-T/poc-nuxt3-movies)<br>
-5. ⬆️ Pushed 1 commit(s) to [Jordan-T/poc-nuxt3-movies](https://github.com/Jordan-T/poc-nuxt3-movies)<br>
+1. ❌ Closed PR [#21](https://github.com/Jordan-T/unlock-game/pull/21) in [Jordan-T/unlock-game](https://github.com/Jordan-T/unlock-game)<br>
+2. ❌ Closed PR [#20](https://github.com/Jordan-T/unlock-game/pull/20) in [Jordan-T/unlock-game](https://github.com/Jordan-T/unlock-game)<br>
+3. ❌ Closed PR [#19](https://github.com/Jordan-T/unlock-game/pull/19) in [Jordan-T/unlock-game](https://github.com/Jordan-T/unlock-game)<br>
+4. ❌ Closed PR [#18](https://github.com/Jordan-T/unlock-game/pull/18) in [Jordan-T/unlock-game](https://github.com/Jordan-T/unlock-game)<br>
+5. ❌ Closed PR [#17](https://github.com/Jordan-T/unlock-game/pull/17) in [Jordan-T/unlock-game](https://github.com/Jordan-T/unlock-game)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 31st, 2023, 12:13:56 PM (GMT)
+Last Updated: Wednesday, February 1st, 2023, 12:46:18 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
