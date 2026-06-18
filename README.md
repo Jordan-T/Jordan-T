@@ -7,8 +7,13 @@ Hello! I'm Jordan-T, passionate front-end developer based in Lille (France).
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed undefined commit(s) to [Jordan-T/my-portfolio-next](https://github.com/Jordan-T/my-portfolio-next)<br>
+2. ⬆️ Pushed undefined commit(s) to [Jordan-T/my-portfolio-next](https://github.com/Jordan-T/my-portfolio-next)<br>
+3. ⬆️ Pushed undefined commit(s) to [Jordan-T/my-portfolio-next](https://github.com/Jordan-T/my-portfolio-next)<br>
+4. ⬆️ Pushed undefined commit(s) to [Jordan-T/my-portfolio-next](https://github.com/Jordan-T/my-portfolio-next)<br>
+5. ⬆️ Pushed undefined commit(s) to [Jordan-T/my-portfolio-next](https://github.com/Jordan-T/my-portfolio-next)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 17th, 2026, 1:08:40 PM (GMT)
+Last Updated: Thursday, June 18th, 2026, 12:36:11 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
