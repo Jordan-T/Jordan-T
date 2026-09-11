@@ -2,3 +2,8 @@ settings:
   readme_file: "./README.md"
   date:
     text: "Last Updated: {DATE} (GMT)"
+
+# Workaround for {AMOUNT} resolving to "undefined" in push messages.
+# Remove this override once fixed upstream: https://github.com/Readme-Workflows/recent-activity/issues/351
+messages:
+  push: "⬆️ Pushed to {REPO}"
