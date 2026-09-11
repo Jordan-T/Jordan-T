@@ -1,6 +1,6 @@
 # User
 
-Hello! I'm Jordan-T, passionate front-end developer based in Lille (France).
+Hello! I'm Jordan-T, passionate Tech Lead Front-End based in Lille (France).
 
 ## Recent Activity
 
